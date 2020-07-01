@@ -2,7 +2,7 @@
 
 # nuid.multiformats
 
-Facilities for working with [multiformats](https://github.com/multiformats).
+Facilities for working with [multiformats](https://github.com/multiformats). Thin wrapper over the wonderful [mvxcvi/multiformats](https://clojars.org/mvxcvi/multiformats).
 
 ## Requirements
 
